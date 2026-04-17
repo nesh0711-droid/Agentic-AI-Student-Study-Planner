@@ -1,0 +1,201 @@
+assignment_id,assignment_name,course,due_date,difficulty,estimated_hours,points
+1,Human Computer Interaction Assignment 1,Human Computer Interaction,23/3/2026,Low,2,13
+2,Machine Learning Assignment 2,Machine Learning,30/3/2026,Low,2,8
+3,Human Computer Interaction Assignment 3,Human Computer Interaction,2/5/2026,High,8,7
+4,Cybersecurity Assignment 4,Cybersecurity,12/4/2026,Low,2,5
+5,Database Systems Assignment 5,Database Systems,29/3/2026,Low,2,21
+6,Cybersecurity Assignment 6,Cybersecurity,17/3/2026,High,8,11
+7,Algorithms Assignment 7,Algorithms,26/4/2026,High,8,22
+8,Computer Networks Assignment 8,Computer Networks,30/3/2026,Medium,4,23
+9,Operating Systems Assignment 9,Operating Systems,6/5/2026,Low,2,10
+10,Algorithms Assignment 10,Algorithms,12/4/2026,Medium,4,13
+11,Data Mining Assignment 11,Data Mining,29/3/2026,Medium,4,8
+12,Database Systems Assignment 12,Database Systems,9/4/2026,Low,2,16
+13,Software Engineering Assignment 13,Software Engineering,23/4/2026,Medium,4,6
+14,Algorithms Assignment 14,Algorithms,14/4/2026,High,8,8
+15,Computer Networks Assignment 15,Computer Networks,21/3/2026,High,8,14
+16,Human Computer Interaction Assignment 16,Human Computer Interaction,24/4/2026,Medium,4,23
+17,Machine Learning Assignment 17,Machine Learning,30/4/2026,Low,2,6
+18,Human Computer Interaction Assignment 18,Human Computer Interaction,30/3/2026,Medium,4,7
+19,Machine Learning Assignment 19,Machine Learning,10/5/2026,Low,2,17
+20,Operating Systems Assignment 20,Operating Systems,14/4/2026,High,8,16
+21,Data Mining Assignment 21,Data Mining,8/4/2026,Medium,4,11
+22,Human Computer Interaction Assignment 22,Human Computer Interaction,2/4/2026,High,8,25
+23,Database Systems Assignment 23,Database Systems,23/4/2026,High,8,10
+24,Cloud Computing Assignment 24,Cloud Computing,1/5/2026,Low,2,10
+25,Data Science Assignment 25,Data Science,9/4/2026,Medium,4,25
+26,Algorithms Assignment 26,Algorithms,20/4/2026,Low,2,15
+27,Big Data Assignment 27,Big Data,4/5/2026,Low,2,12
+28,Artificial Intelligence Assignment 28,Artificial Intelligence,6/5/2026,Medium,4,17
+29,Operating Systems Assignment 29,Operating Systems,20/3/2026,Low,2,23
+30,Algorithms Assignment 30,Algorithms,5/4/2026,Low,2,25
+31,Data Science Assignment 31,Data Science,10/4/2026,High,8,19
+32,Data Mining Assignment 32,Data Mining,1/4/2026,Low,2,12
+33,Algorithms Assignment 33,Algorithms,20/4/2026,High,8,13
+34,Algorithms Assignment 34,Algorithms,22/4/2026,Medium,4,23
+35,Computer Networks Assignment 35,Computer Networks,8/4/2026,Low,2,9
+36,Cloud Computing Assignment 36,Cloud Computing,16/4/2026,Low,2,6
+37,Database Systems Assignment 37,Database Systems,25/3/2026,High,8,10
+38,Big Data Assignment 38,Big Data,28/4/2026,Medium,4,24
+39,Database Systems Assignment 39,Database Systems,9/4/2026,Medium,4,24
+40,Data Science Assignment 40,Data Science,18/4/2026,Medium,4,22
+41,Artificial Intelligence Assignment 41,Artificial Intelligence,28/4/2026,High,8,8
+42,Human Computer Interaction Assignment 42,Human Computer Interaction,11/5/2026,High,8,13
+43,Big Data Assignment 43,Big Data,26/4/2026,Medium,4,8
+44,Operating Systems Assignment 44,Operating Systems,12/4/2026,Low,2,19
+45,Artificial Intelligence Assignment 45,Artificial Intelligence,1/5/2026,High,8,13
+46,Cloud Computing Assignment 46,Cloud Computing,3/5/2026,Low,2,21
+47,Database Systems Assignment 47,Database Systems,10/5/2026,High,8,14
+48,Human Computer Interaction Assignment 48,Human Computer Interaction,17/4/2026,High,8,11
+49,Data Mining Assignment 49,Data Mining,8/4/2026,Low,2,22
+50,Big Data Assignment 50,Big Data,14/5/2026,High,8,5
+51,Cybersecurity Assignment 51,Cybersecurity,5/4/2026,Medium,4,5
+52,Database Systems Assignment 52,Database Systems,14/5/2026,Medium,4,14
+53,Machine Learning Assignment 53,Machine Learning,19/3/2026,Low,2,23
+54,Database Systems Assignment 54,Database Systems,21/3/2026,High,8,20
+55,Database Systems Assignment 55,Database Systems,3/5/2026,High,8,9
+56,Data Mining Assignment 56,Data Mining,27/4/2026,Medium,4,22
+57,Data Mining Assignment 57,Data Mining,1/4/2026,High,8,24
+58,Computer Networks Assignment 58,Computer Networks,29/3/2026,High,8,11
+59,Algorithms Assignment 59,Algorithms,4/4/2026,Medium,4,25
+60,Software Engineering Assignment 60,Software Engineering,13/4/2026,High,8,19
+61,Database Systems Assignment 61,Database Systems,31/3/2026,Low,2,7
+62,Software Engineering Assignment 62,Software Engineering,17/3/2026,High,8,22
+63,Machine Learning Assignment 63,Machine Learning,22/4/2026,Low,2,5
+64,Database Systems Assignment 64,Database Systems,30/4/2026,High,8,6
+65,Machine Learning Assignment 65,Machine Learning,20/3/2026,Low,2,15
+66,Database Systems Assignment 66,Database Systems,17/4/2026,Low,2,13
+67,Human Computer Interaction Assignment 67,Human Computer Interaction,16/4/2026,Low,2,22
+68,Data Mining Assignment 68,Data Mining,1/5/2026,High,8,23
+69,Data Science Assignment 69,Data Science,31/3/2026,Medium,4,18
+70,Machine Learning Assignment 70,Machine Learning,22/3/2026,Low,2,18
+71,Software Engineering Assignment 71,Software Engineering,12/4/2026,Medium,4,19
+72,Algorithms Assignment 72,Algorithms,19/3/2026,High,8,25
+73,Human Computer Interaction Assignment 73,Human Computer Interaction,22/3/2026,Low,2,17
+74,Algorithms Assignment 74,Algorithms,6/4/2026,Low,2,12
+75,Machine Learning Assignment 75,Machine Learning,28/3/2026,High,8,19
+76,Data Mining Assignment 76,Data Mining,12/4/2026,Low,2,13
+77,Data Science Assignment 77,Data Science,31/3/2026,Low,2,19
+78,Big Data Assignment 78,Big Data,10/5/2026,High,8,8
+79,Artificial Intelligence Assignment 79,Artificial Intelligence,26/4/2026,High,8,5
+80,Database Systems Assignment 80,Database Systems,14/5/2026,Low,2,10
+81,Computer Networks Assignment 81,Computer Networks,16/4/2026,Medium,4,11
+82,Computer Networks Assignment 82,Computer Networks,12/5/2026,Low,2,10
+83,Computer Networks Assignment 83,Computer Networks,16/3/2026,Medium,4,13
+84,Big Data Assignment 84,Big Data,5/5/2026,Medium,4,14
+85,Computer Networks Assignment 85,Computer Networks,29/4/2026,High,8,22
+86,Human Computer Interaction Assignment 86,Human Computer Interaction,30/4/2026,Medium,4,9
+87,Machine Learning Assignment 87,Machine Learning,3/4/2026,Low,2,6
+88,Cybersecurity Assignment 88,Cybersecurity,2/5/2026,High,8,6
+89,Algorithms Assignment 89,Algorithms,5/4/2026,Low,2,6
+90,Cybersecurity Assignment 90,Cybersecurity,15/4/2026,High,8,21
+91,Data Mining Assignment 91,Data Mining,19/3/2026,High,8,7
+92,Data Mining Assignment 92,Data Mining,20/3/2026,High,8,7
+93,Human Computer Interaction Assignment 93,Human Computer Interaction,10/5/2026,Low,2,17
+94,Database Systems Assignment 94,Database Systems,11/5/2026,High,8,12
+95,Cybersecurity Assignment 95,Cybersecurity,23/4/2026,Low,2,24
+96,Database Systems Assignment 96,Database Systems,11/4/2026,High,8,23
+97,Cybersecurity Assignment 97,Cybersecurity,18/4/2026,Medium,4,13
+98,Machine Learning Assignment 98,Machine Learning,27/4/2026,High,8,15
+99,Machine Learning Assignment 99,Machine Learning,1/4/2026,Medium,4,9
+100,Human Computer Interaction Assignment 100,Human Computer Interaction,26/4/2026,Medium,4,19
+101,Software Engineering Assignment 101,Software Engineering,14/5/2026,Low,2,5
+102,Data Science Assignment 102,Data Science,24/4/2026,High,8,8
+103,Database Systems Assignment 103,Database Systems,19/4/2026,Low,2,21
+104,Operating Systems Assignment 104,Operating Systems,24/3/2026,Medium,4,7
+105,Machine Learning Assignment 105,Machine Learning,8/4/2026,Medium,4,10
+106,Data Science Assignment 106,Data Science,8/5/2026,High,8,14
+107,Cybersecurity Assignment 107,Cybersecurity,6/5/2026,High,8,21
+108,Artificial Intelligence Assignment 108,Artificial Intelligence,27/4/2026,High,8,14
+109,Human Computer Interaction Assignment 109,Human Computer Interaction,22/3/2026,Low,2,13
+110,Database Systems Assignment 110,Database Systems,11/5/2026,Low,2,22
+111,Data Mining Assignment 111,Data Mining,2/4/2026,Medium,4,24
+112,Machine Learning Assignment 112,Machine Learning,30/4/2026,Medium,4,11
+113,Human Computer Interaction Assignment 113,Human Computer Interaction,25/4/2026,Medium,4,21
+114,Data Science Assignment 114,Data Science,1/4/2026,Low,2,7
+115,Human Computer Interaction Assignment 115,Human Computer Interaction,12/4/2026,Medium,4,6
+116,Artificial Intelligence Assignment 116,Artificial Intelligence,6/4/2026,Low,2,25
+117,Operating Systems Assignment 117,Operating Systems,26/3/2026,High,8,19
+118,Cloud Computing Assignment 118,Cloud Computing,30/4/2026,Medium,4,22
+119,Artificial Intelligence Assignment 119,Artificial Intelligence,23/3/2026,Low,2,9
+120,Cloud Computing Assignment 120,Cloud Computing,18/3/2026,Medium,4,23
+121,Cloud Computing Assignment 121,Cloud Computing,25/3/2026,Medium,4,9
+122,Artificial Intelligence Assignment 122,Artificial Intelligence,4/4/2026,Medium,4,6
+123,Software Engineering Assignment 123,Software Engineering,29/3/2026,High,8,12
+124,Human Computer Interaction Assignment 124,Human Computer Interaction,22/3/2026,Medium,4,22
+125,Computer Networks Assignment 125,Computer Networks,24/4/2026,High,8,9
+126,Machine Learning Assignment 126,Machine Learning,10/5/2026,Low,2,10
+127,Computer Networks Assignment 127,Computer Networks,17/3/2026,Low,2,15
+128,Big Data Assignment 128,Big Data,14/5/2026,Medium,4,12
+129,Operating Systems Assignment 129,Operating Systems,26/3/2026,High,8,8
+130,Computer Networks Assignment 130,Computer Networks,10/5/2026,Low,2,20
+131,Machine Learning Assignment 131,Machine Learning,28/3/2026,Medium,4,16
+132,Operating Systems Assignment 132,Operating Systems,7/5/2026,Low,2,12
+133,Artificial Intelligence Assignment 133,Artificial Intelligence,27/4/2026,Low,2,17
+134,Software Engineering Assignment 134,Software Engineering,2/4/2026,Low,2,13
+135,Software Engineering Assignment 135,Software Engineering,26/4/2026,High,8,17
+136,Human Computer Interaction Assignment 136,Human Computer Interaction,8/5/2026,High,8,15
+137,Artificial Intelligence Assignment 137,Artificial Intelligence,23/3/2026,Medium,4,10
+138,Cybersecurity Assignment 138,Cybersecurity,1/4/2026,Low,2,8
+139,Cybersecurity Assignment 139,Cybersecurity,12/4/2026,Medium,4,15
+140,Computer Networks Assignment 140,Computer Networks,23/4/2026,High,8,8
+141,Computer Networks Assignment 141,Computer Networks,12/5/2026,High,8,11
+142,Operating Systems Assignment 142,Operating Systems,18/3/2026,High,8,18
+143,Artificial Intelligence Assignment 143,Artificial Intelligence,18/4/2026,High,8,11
+144,Software Engineering Assignment 144,Software Engineering,12/4/2026,Low,2,15
+145,Cybersecurity Assignment 145,Cybersecurity,5/4/2026,High,8,8
+146,Algorithms Assignment 146,Algorithms,12/5/2026,Medium,4,21
+147,Operating Systems Assignment 147,Operating Systems,27/4/2026,Medium,4,15
+148,Computer Networks Assignment 148,Computer Networks,29/4/2026,Medium,4,22
+149,Data Mining Assignment 149,Data Mining,28/3/2026,Medium,4,17
+150,Human Computer Interaction Assignment 150,Human Computer Interaction,2/5/2026,Low,2,24
+151,Cybersecurity Assignment 151,Cybersecurity,4/4/2026,Medium,4,22
+152,Artificial Intelligence Assignment 152,Artificial Intelligence,4/4/2026,Medium,4,11
+153,Computer Networks Assignment 153,Computer Networks,5/5/2026,High,8,24
+154,Human Computer Interaction Assignment 154,Human Computer Interaction,5/4/2026,Medium,4,19
+155,Data Science Assignment 155,Data Science,28/4/2026,Low,2,21
+156,Data Science Assignment 156,Data Science,5/5/2026,High,8,10
+157,Human Computer Interaction Assignment 157,Human Computer Interaction,21/3/2026,Medium,4,21
+158,Human Computer Interaction Assignment 158,Human Computer Interaction,25/4/2026,High,8,15
+159,Database Systems Assignment 159,Database Systems,7/5/2026,Low,2,14
+160,Machine Learning Assignment 160,Machine Learning,6/5/2026,Low,2,9
+161,Artificial Intelligence Assignment 161,Artificial Intelligence,18/3/2026,Low,2,20
+162,Cybersecurity Assignment 162,Cybersecurity,9/5/2026,Low,2,19
+163,Computer Networks Assignment 163,Computer Networks,11/5/2026,High,8,23
+164,Machine Learning Assignment 164,Machine Learning,30/4/2026,High,8,17
+165,Data Science Assignment 165,Data Science,10/4/2026,Low,2,9
+166,Human Computer Interaction Assignment 166,Human Computer Interaction,29/4/2026,Low,2,8
+167,Big Data Assignment 167,Big Data,12/4/2026,Low,2,10
+168,Big Data Assignment 168,Big Data,29/4/2026,High,8,19
+169,Artificial Intelligence Assignment 169,Artificial Intelligence,20/4/2026,Low,2,8
+170,Data Science Assignment 170,Data Science,24/3/2026,Medium,4,21
+171,Cloud Computing Assignment 171,Cloud Computing,23/4/2026,Medium,4,19
+172,Cybersecurity Assignment 172,Cybersecurity,7/5/2026,High,8,21
+173,Computer Networks Assignment 173,Computer Networks,8/5/2026,High,8,19
+174,Data Mining Assignment 174,Data Mining,2/5/2026,Medium,4,19
+175,Operating Systems Assignment 175,Operating Systems,3/5/2026,Low,2,25
+176,Operating Systems Assignment 176,Operating Systems,4/5/2026,High,8,20
+177,Human Computer Interaction Assignment 177,Human Computer Interaction,31/3/2026,Medium,4,19
+178,Database Systems Assignment 178,Database Systems,30/4/2026,Medium,4,12
+179,Operating Systems Assignment 179,Operating Systems,6/4/2026,Medium,4,22
+180,Database Systems Assignment 180,Database Systems,24/3/2026,Low,2,12
+181,Computer Networks Assignment 181,Computer Networks,29/4/2026,Low,2,11
+182,Database Systems Assignment 182,Database Systems,11/4/2026,Medium,4,15
+183,Cloud Computing Assignment 183,Cloud Computing,14/4/2026,Medium,4,6
+184,Machine Learning Assignment 184,Machine Learning,8/5/2026,Medium,4,17
+185,Big Data Assignment 185,Big Data,22/4/2026,High,8,5
+186,Big Data Assignment 186,Big Data,21/4/2026,Medium,4,20
+187,Artificial Intelligence Assignment 187,Artificial Intelligence,7/4/2026,Medium,4,17
+188,Computer Networks Assignment 188,Computer Networks,19/4/2026,High,8,22
+189,Big Data Assignment 189,Big Data,23/4/2026,Low,2,20
+190,Machine Learning Assignment 190,Machine Learning,2/4/2026,Medium,4,20
+191,Artificial Intelligence Assignment 191,Artificial Intelligence,9/4/2026,Medium,4,17
+192,Algorithms Assignment 192,Algorithms,26/3/2026,Medium,4,9
+193,Cybersecurity Assignment 193,Cybersecurity,19/4/2026,Low,2,17
+194,Cybersecurity Assignment 194,Cybersecurity,21/4/2026,High,8,5
+195,Database Systems Assignment 195,Database Systems,26/4/2026,Medium,4,9
+196,Data Science Assignment 196,Data Science,27/3/2026,Low,2,13
+197,Computer Networks Assignment 197,Computer Networks,5/4/2026,Low,2,19
+198,Software Engineering Assignment 198,Software Engineering,6/4/2026,Medium,4,13
+199,Big Data Assignment 199,Big Data,8/5/2026,Medium,4,13
+200,Database Systems Assignment 200,Database Systems,15/4/2026,Low,2,22
