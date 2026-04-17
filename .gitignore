@@ -1,0 +1,10 @@
+# Secret credentials — never upload these
+config.py
+credentials/
+
+# Python cache — not needed
+__pycache__/
+*.pyc
+
+# Large binary model (optional — use Git LFS if you want to include it)
+models/*.pkl
